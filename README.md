@@ -1,6 +1,6 @@
 # Go Game API - TypeScript
 
-A comprehensive REST API and WebSocket server for a multiplayer Go (Baduk) board game, built with TypeScript, Node.js, Express, and MongoDB.
+A comprehensive REST API and WebSocket server for a multiplayer games, built with TypeScript, Node.js, Express, and MongoDB.
 
 ## Features
 
